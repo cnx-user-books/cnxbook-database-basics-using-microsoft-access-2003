@@ -1,0 +1,55 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>What is a Database?</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>e21f61de-04f5-4567-b1ad-b1f63f0e98fc</md:uuid>
+</metadata>
+  <content>
+    <para id="element-954">DEFINITION: Database</para><para id="element-544">According to ENCYCLOPAEDIA BRITANICA, it is also called an "electronic database."  Primarily, a database is "any collection of data, or information, that is specially organized for rapid search and retrieval by a computer."  </para><para id="element-190">"A database is stored as a file or a set of files on magnetic disk or tape, optical disk, or some other secondary storage device. The information in these files may be broken down into records, each of which consists of one or more fields."</para><para id="element-875">"Fields are the basic units of data storage, and each field typically contains information pertaining to one aspect or attribute of the entity described by the database."  </para><para id="element-966">"Records are also organized into tables that include information about relationships between its various fields." 
+</para><para id="element-446">"Databases are structured to facilitate the storage, retrieval, modification, and deletion of data in conjunction with various data-processing operations."</para><para id="element-973">"Typical examples of databases include employee records and product catalogs."</para><note id="idm9073824">See also, computer science: Information systems and databases; information processing. </note><exercise id="element-211"><problem id="idm9408352">
+		<para id="element-437">
+	Any collection of data, or information, that is specially organized for rapid search and retrieval by a computer is called a/an
+		</para>
+	</problem>
+	<solution id="idp5494432">
+		<para id="element-118">"database"
+		</para>
+	</solution>
+</exercise><exercise id="element-918"><problem id="idp4560368">
+		<para id="element-884">
+	A basic unit of data storage is called a/an
+		</para>
+	</problem>
+	<solution id="idp5093664">
+		<para id="element-580">"field"
+		</para>
+	</solution>
+</exercise><exercise id="element-200"><problem id="idp11301104">
+		<para id="element-813">A/An ____________ contains one or more fields.		</para>
+	</problem>
+	<solution id="idp4473312">
+		<para id="element-286">"record"
+		</para>
+	</solution>
+</exercise><exercise id="element-51"><problem id="idp3914480">
+		<para id="element-765">
+			A/An_________ contains one or more records.
+		</para>
+	</problem>
+	<solution id="idp4896800">
+		<para id="element-937">"table"
+		</para>
+	</solution>
+</exercise><exercise id="element-464"><problem id="idp2205376">
+		<para id="element-148">
+	Can you name a popular database application?
+		</para>
+	</problem>
+	<solution id="idm9383216">
+		<para id="element-868">"Microsoft Access"
+		</para>
+	</solution>
+</exercise><para id="delete_me">
+       <!-- Insert module text here -->
+    </para>   
+  </content>
+  
+</document>
